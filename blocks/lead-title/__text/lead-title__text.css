@@ -1,0 +1,15 @@
+.lead-title__text {
+  position: absolute;
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 56px;
+  text-align: center;
+  color: #ffffff;
+  margin: 0 auto;
+  left: 163px;
+  top: 128px;
+  right: 128px;
+  z-index: 1;
+}
