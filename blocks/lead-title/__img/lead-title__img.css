@@ -1,5 +1,4 @@
 .lead-title__img {
-  position: absolute;
   object-fit: cover;
   z-index: 0;
 }

@@ -25,3 +25,15 @@
 @import url(../blocks/lead-title/__img/lead-title__img.css);
 
 @import url(../blocks/lead-title/__text/lead-title__text.css);
+
+@import url(../blocks/intro/intro.css);
+
+@import url(../blocks/intro/__flex/intro__flex.css);
+
+@import url(../blocks/intro/__flex-img/intro__flex-img.css);
+
+@import url(../blocks/intro/__flex-text/intro__flex-text.css);
+
+@import url(../blocks/intro/__title/intro__title.css);
+
+@import url(../blocks/intro/__text/intro__text.css);

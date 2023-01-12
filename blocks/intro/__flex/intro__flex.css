@@ -1,0 +1,6 @@
+.intro__flex{
+	display: flex;
+	justify-content: space-around;
+	margin: 0 auto;
+	padding: 16px 71px 40px 55px;
+}
