@@ -6,6 +6,8 @@
 
 @import url(../blocks/header/header.css);
 
+@import url(../blocks/header/__logo/header__logo.css);
+
 @import url(../blocks/header/__lang-links/__lang-links.css);
 
 @import url(../blocks/header/__text-line/__text-line.css);
