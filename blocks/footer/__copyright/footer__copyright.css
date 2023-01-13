@@ -1,0 +1,11 @@
+.footer__copyright {
+  margin: 0 auto;
+  padding: 48px 339px 64px 340px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  color: #ffffff;
+}

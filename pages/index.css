@@ -1,0 +1,59 @@
+@import url(../vendor/normalize.css);
+
+@import url(../fonts/fonts.css);
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+
+@import url(../blocks/header/__logo/header__logo.css);
+
+@import url(../blocks/header/__lang-links/__lang-links.css);
+
+@import url(../blocks/header/__text-line/__text-line.css);
+
+@import url(../blocks/lead/lead.css);
+
+@import url(../blocks/lead/__title/lead__title.css);
+
+@import url(../blocks/problem/problem.css);
+
+@import url(../blocks/problem/__title/problem__title.css);
+
+@import url(../blocks/problem/__text/problem__text.css);
+
+@import url(../blocks/lead-title/lead-title.css);
+
+@import url(../blocks/lead-title/__img/lead-title__img.css);
+
+@import url(../blocks/lead-title/__text/lead-title__text.css);
+
+@import url(../blocks/intro/intro.css);
+
+@import url(../blocks/intro/__flex/intro__flex.css);
+
+@import url(../blocks/intro/__flex-img/intro__flex-img.css);
+
+@import url(../blocks/intro/__flex-text/intro__flex-text.css);
+
+@import url(../blocks/intro/__title/intro__title.css);
+
+@import url(../blocks/intro/__text/intro__text.css);
+
+@import url(../blocks/team/team.css);
+
+@import url(../blocks/team/__title/team__title.css);
+
+@import url(../blocks/cards/cards.css);
+
+@import url(../blocks/cards/__item/cards__item.css);
+
+@import url(../blocks/cards/__img/cards__img.css);
+
+@import url(../blocks/cards/__title/cards__title.css);
+
+@import url(../blocks/cards/__description/cards__description.css);
+
+@import url(../blocks/footer/footer.css);
+
+@import url(../blocks/footer/__copyright/footer__copyright.css);

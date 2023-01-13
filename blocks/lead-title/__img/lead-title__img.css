@@ -1,0 +1,4 @@
+.lead-title__img {
+  object-fit: cover;
+  z-index: 0;
+}
