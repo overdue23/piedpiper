@@ -1,0 +1,14 @@
+.cards__item{
+	width: 350px;
+	height: 283px;
+	padding-right: 30px;
+	margin: 0;
+	text-align: center;
+}
+
+
+.cards__item:nth-of-type(3n) {
+	padding-right: 0;
+}
+
+
